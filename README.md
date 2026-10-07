@@ -2,22 +2,22 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了 X 上创作者自称用 **Nano Banana 2.1**（API id `gemini-nano-banana-2.1`，Google Flow 上有时显示代号 `beluga`）做出的图像案例。去重筛选后共 **25 个作品**，分 5 类，其中 **11 个附有作者公开的提示词**，全部带预览图。每条都署名并链接到原帖。
+这里收集了 X 上创作者自称用 **Nano Banana 2.1**（API id `gemini-nano-banana-2.1`，Google Flow 上有时显示代号 `beluga`）做出的图像案例。**仅收录同时具备预览图与作者公开提示词**的作品，去重筛选后共 **21 个案例**，分 5 类。每条都署名并链接到原帖。
 
 **[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-nano-banana-2.1/)**
 
 <table>
   <tr>
     <td width="25%" align="center"><a href="https://x.com/chetaslua/status/2107213481200292077"><img src="https://pbs.twimg.com/media/HT5TESIbgAAeU4t.jpg" width="200" alt="最爱电影从结尾到开头：拼贴画首测"></a><br><sub>最爱电影从结尾到开头：拼贴画首测 · @chetaslua</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="https://pbs.twimg.com/media/HT97DMaaIAAXui3.jpg" width="200" alt="同 prompt 对打 GPT Images 2.5（JSON 提示）"></a><br><sub>同 prompt 对打 GPT Images 2.5（JSON 提示） · @ViralOps_</sub></td>
     <td width="25%" align="center"><a href="https://x.com/HarshithLucky3/status/2107215302320947424"><img src="https://pbs.twimg.com/media/HT5VJG-aoAACHaC.jpg" width="200" alt="三只半人马后空翻：Flow 首测"></a><br><sub>三只半人马后空翻：Flow 首测 · @HarshithLucky3</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/astropol0/status/2107221983574508021"><img src="https://pbs.twimg.com/media/HT5bM4JaQAAfI-S.jpg" width="200" alt="Google Flow 上 beluga 悄然上线"></a><br><sub>Google Flow 上 beluga 悄然上线 · @astropol0</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/rovvmut_/status/2107691827323392159"><img src="https://pbs.twimg.com/media/HUAGifZbEAA3bQx.jpg" width="200" alt="明暗对照法电影感特写人像"></a><br><sub>明暗对照法电影感特写人像 · @rovvmut_</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/ZaraIrahh/status/2107705937012142393"><img src="https://pbs.twimg.com/media/HUARS5SasAAi6h-.jpg" width="200" alt="扶桑花丛中的胶片风人像（含负面提示）"></a><br><sub>扶桑花丛中的胶片风人像（含负面提示） · @ZaraIrahh</sub></td>
   </tr>
   <tr>
-    <td width="25%" align="center"><a href="https://x.com/ladprofit/status/2107539532132581614"><img src="https://pbs.twimg.com/media/HT97ns0asAABmXc.jpg" width="200" alt="纹身项链眼镜堆细节：vs GPT Image 2.5"></a><br><sub>纹身项链眼镜堆细节：vs GPT Image 2.5 · @ladprofit</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/alisa_fortin/status/2107544570397667596"><img src="https://pbs.twimg.com/media/HT9_7tKbEAAPXoj.jpg" width="200" alt="官方侧发布说明：gemini-nano-banana-2.1"></a><br><sub>官方侧发布说明：gemini-nano-banana-2.1 · @alisa_fortin</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/doe_naps/status/2107218168674672705"><img src="https://pbs.twimg.com/media/HT5XvPZaEAAFrih.jpg" width="200" alt="同 prompt：2.1 vs Nano Banana Pro"></a><br><sub>同 prompt：2.1 vs Nano Banana Pro · @doe_naps</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/GeekCatX/status/2107519589349507464"><img src="https://pbs.twimg.com/media/HT9ojFMa8AAjWwC.jpg" width="200" alt="中文圈实测：汉字略好，仍逊 GPT Image 2.5"></a><br><sub>中文圈实测：汉字略好，仍逊 GPT Image 2.5 · @GeekCatX</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/MahiraEhan/status/2107702956258685009"><img src="https://pbs.twimg.com/media/HUAQZrha8AAHZkI.jpg" width="200" alt="夜间 iPhone 闪光：扎高马尾的抓拍瞬间"></a><br><sub>夜间 iPhone 闪光：扎高马尾的抓拍瞬间 · @MahiraEhan</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/ChillaiKalan__/status/2107688620081738000"><img src="https://pbs.twimg.com/media/HUADftiacAAhdpF.jpg" width="200" alt="黑白舷窗构图：混凝土楼梯间人像"></a><br><sub>黑白舷窗构图：混凝土楼梯间人像 · @ChillaiKalan__</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/weiinberg/status/2107694579764113701"><img src="https://pbs.twimg.com/media/HUAI3J4bwAAf8Ma.jpg" width="200" alt="iPhone 直出：冷帽墨镜白羽绒服"></a><br><sub>iPhone 直出：冷帽墨镜白羽绒服 · @weiinberg</sub></td>
+    <td width="25%" align="center"><a href="https://x.com/SahilPanhotra/status/2107505017905467481"><img src="https://pbs.twimg.com/media/HT9cNzUbYAAMF4c.jpg" width="200" alt="生日前想要 MacBook：结果给你一根香蕉"></a><br><sub>生日前想要 MacBook：结果给你一根香蕉 · @SahilPanhotra</sub></td>
   </tr>
 </table>
 
@@ -27,8 +27,8 @@
 
 - 只收**创作者本人发布的原帖**；明显搬运不收。
 - 帖子里**明确写了 Nano Banana 2.1**（或 `gemini-nano-banana-2.1` / Flow `beluga`）。不要与 [awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts)（Pro）混淆。
-- 提示词只引用**公开可查**内容（正文或作者回复）；找不到出处的留空。
-- 封面优先使用 `pbs.twimg.com` 公开媒体 URL。互动数为整理时快照（2026-10-07 12:40 (UTC+8)）。
+- **必须同时有封面预览图 + 非空公开提示词**（正文或作者回复中可查）；缺一不收。
+- 封面优先使用 `pbs.twimg.com` 公开媒体 URL。互动数为整理时快照（2026-10-07 14:29 (UTC+8)）。
 
 ## 模型速览
 
@@ -39,38 +39,33 @@
 
 ## 对比评测
 
-8 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=compare)
+3 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=compare)
 
 | 预览 | 作品 | 模型 | 创作者 | 提示词 |
 |---|---|---|---|---|
-| <a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="https://pbs.twimg.com/media/HT97DMaaIAAXui3.jpg" width="160" alt="同 prompt 对打 GPT Images 2.5（JSON 提示）"></a> | [同 prompt 对打 GPT Images 2.5（JSON 提示）](https://x.com/ViralOps_/status/2107538470818484305) | Nano Banana 2.1 | [@ViralOps_](https://x.com/ViralOps_) | — |
-| <a href="https://x.com/doe_naps/status/2107218168674672705"><img src="https://pbs.twimg.com/media/HT5XvPZaEAAFrih.jpg" width="160" alt="同 prompt：2.1 vs Nano Banana Pro"></a> | [同 prompt：2.1 vs Nano Banana Pro](https://x.com/doe_naps/status/2107218168674672705) | Nano Banana 2.1 | [@doe_naps](https://x.com/doe_naps) | — |
-| <a href="https://x.com/GeekCatX/status/2107519589349507464"><img src="https://pbs.twimg.com/media/HT9ojFMa8AAjWwC.jpg" width="160" alt="中文圈实测：汉字略好，仍逊 GPT Image 2.5"></a> | [中文圈实测：汉字略好，仍逊 GPT Image 2.5](https://x.com/GeekCatX/status/2107519589349507464) | Nano Banana 2.1 | [@GeekCatX](https://x.com/GeekCatX) | — |
-| <a href="https://x.com/miroburn/status/2107518516643373283"><img src="https://pbs.twimg.com/media/HT9o6OHWgAAce_d.jpg" width="160" alt="同 prompt：2.1 vs GPT Image 2.5 Sunburst"></a> | [同 prompt：2.1 vs GPT Image 2.5 Sunburst](https://x.com/miroburn/status/2107518516643373283) | Nano Banana 2.1 | [@miroburn](https://x.com/miroburn) | — |
-| <a href="https://x.com/alexmichaelio/status/2107218537483780232"><img src="https://pbs.twimg.com/media/HT5X_ArW0AAi30c.jpg" width="160" alt="vs GPT Images 2.5：提示词见图"></a> | [vs GPT Images 2.5：提示词见图](https://x.com/alexmichaelio/status/2107218537483780232) | Nano Banana 2.1 | [@alexmichaelio](https://x.com/alexmichaelio) | — |
-| <a href="https://x.com/zane_os/status/2107667995741069678"><img src="https://pbs.twimg.com/media/HT_u1aXbYAAvw6B.jpg" width="160" alt="江之岛站台 Gemini 酱：vs ChatGPT Images 2.5"></a> | [江之岛站台 Gemini 酱：vs ChatGPT Images 2.5](https://x.com/zane_os/status/2107667995741069678) | Nano Banana 2.1 | [@zane_os](https://x.com/zane_os) | — |
-| <a href="https://x.com/ItsmeAjayKV/status/2107229284633047242"><img src="https://pbs.twimg.com/media/HT5h2rBbkAAOv0v.jpg" width="160" alt="同设置：2.1 vs Nano Banana 2-lite"></a> | [同设置：2.1 vs Nano Banana 2-lite](https://x.com/ItsmeAjayKV/status/2107229284633047242) | Nano Banana 2.1 | [@ItsmeAjayKV](https://x.com/ItsmeAjayKV) | — |
-| <a href="https://x.com/enzovalenx/status/2107553833064808683"><img src="https://pbs.twimg.com/media/HT-JCeZXkAA1p44.jpg" width="160" alt="同 prompt + 同参考：2.1 vs Nano Banana 2"></a> | [同 prompt + 同参考：2.1 vs Nano Banana 2](https://x.com/enzovalenx/status/2107553833064808683) | Nano Banana 2.1 | [@enzovalenx](https://x.com/enzovalenx) | — |
-
+| <a href="https://x.com/EmilioSchwaiger/status/2107699973869494754"><img src="https://pbs.twimg.com/media/HUAN9ARWQAAeoUi.jpg" width="160" alt="棋盘暮影成城市天际线：2 Lite vs 2.1"></a> | [棋盘暮影成城市天际线：2 Lite vs 2.1](https://x.com/EmilioSchwaiger/status/2107699973869494754) | Nano Banana 2.1 | [@EmilioSchwaiger](https://x.com/EmilioSchwaiger) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107699973869494754) |
+| <a href="https://x.com/Gertywood5/status/2107715555411247528"><img src="https://pbs.twimg.com/media/HUAbl0la0AA74FE.png" width="160" alt="好莱坞科幻过肩镜头：多模型同 prompt"></a> | [好莱坞科幻过肩镜头：多模型同 prompt](https://x.com/Gertywood5/status/2107715555411247528) | Nano Banana 2.1 | [@Gertywood5](https://x.com/Gertywood5) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107715555411247528) |
+| <a href="https://x.com/LeeLeepenkman/status/2107707838365872365"><img src="https://pbs.twimg.com/media/HUAU4z7a4AAxkQP.jpg" width="160" alt="要塞建造游戏 UI：Gemini Image vs 2.1"></a> | [要塞建造游戏 UI：Gemini Image vs 2.1](https://x.com/LeeLeepenkman/status/2107707838365872365) | Nano Banana 2.1 | [@LeeLeepenkman](https://x.com/LeeLeepenkman) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107707838365872365) |
 ## 产品 / 商业
 
-2 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=product)
+1 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=product)
 
 | 预览 | 作品 | 模型 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | <a href="https://x.com/modisulak/status/2107232476905291892"><img src="https://pbs.twimg.com/media/HT5kIZwbUAE70wR.jpg" width="160" alt="UGC 包包实拍风：vs GPT Image 2.5"></a> | [UGC 包包实拍风：vs GPT Image 2.5](https://x.com/modisulak/status/2107232476905291892) | Nano Banana 2.1 | [@modisulak](https://x.com/modisulak) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107232476905291892) |
-| <a href="https://x.com/khaledawad_98/status/2107524702545858721"><img src="https://pbs.twimg.com/media/HT9uiw1WoAEE6qh.jpg" width="160" alt="商业咖啡广告视觉"></a> | [商业咖啡广告视觉](https://x.com/khaledawad_98/status/2107524702545858721) | Nano Banana 2.1 | [@khaledawad_98](https://x.com/khaledawad_98) | — |
-
 ## 人像 / 角色
 
-3 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=portrait)
+7 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=portrait)
 
 | 预览 | 作品 | 模型 | 创作者 | 提示词 |
 |---|---|---|---|---|
-| <a href="https://x.com/ladprofit/status/2107539532132581614"><img src="https://pbs.twimg.com/media/HT97ns0asAABmXc.jpg" width="160" alt="纹身项链眼镜堆细节：vs GPT Image 2.5"></a> | [纹身项链眼镜堆细节：vs GPT Image 2.5](https://x.com/ladprofit/status/2107539532132581614) | Nano Banana 2.1 | [@ladprofit](https://x.com/ladprofit) | — |
+| <a href="https://x.com/rovvmut_/status/2107691827323392159"><img src="https://pbs.twimg.com/media/HUAGifZbEAA3bQx.jpg" width="160" alt="明暗对照法电影感特写人像"></a> | [明暗对照法电影感特写人像](https://x.com/rovvmut_/status/2107691827323392159) | Nano Banana 2.1 | [@rovvmut_](https://x.com/rovvmut_) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107691827323392159) |
+| <a href="https://x.com/ZaraIrahh/status/2107705937012142393"><img src="https://pbs.twimg.com/media/HUARS5SasAAi6h-.jpg" width="160" alt="扶桑花丛中的胶片风人像（含负面提示）"></a> | [扶桑花丛中的胶片风人像（含负面提示）](https://x.com/ZaraIrahh/status/2107705937012142393) | Nano Banana 2.1 | [@ZaraIrahh](https://x.com/ZaraIrahh) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107705937012142393) |
+| <a href="https://x.com/MahiraEhan/status/2107702956258685009"><img src="https://pbs.twimg.com/media/HUAQZrha8AAHZkI.jpg" width="160" alt="夜间 iPhone 闪光：扎高马尾的抓拍瞬间"></a> | [夜间 iPhone 闪光：扎高马尾的抓拍瞬间](https://x.com/MahiraEhan/status/2107702956258685009) | Nano Banana 2.1 | [@MahiraEhan](https://x.com/MahiraEhan) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107702956258685009) |
+| <a href="https://x.com/ChillaiKalan__/status/2107688620081738000"><img src="https://pbs.twimg.com/media/HUADftiacAAhdpF.jpg" width="160" alt="黑白舷窗构图：混凝土楼梯间人像"></a> | [黑白舷窗构图：混凝土楼梯间人像](https://x.com/ChillaiKalan__/status/2107688620081738000) | Nano Banana 2.1 | [@ChillaiKalan__](https://x.com/ChillaiKalan__) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107688620081738000) |
+| <a href="https://x.com/weiinberg/status/2107694579764113701"><img src="https://pbs.twimg.com/media/HUAI3J4bwAAf8Ma.jpg" width="160" alt="iPhone 直出：冷帽墨镜白羽绒服"></a> | [iPhone 直出：冷帽墨镜白羽绒服](https://x.com/weiinberg/status/2107694579764113701) | Nano Banana 2.1 | [@weiinberg](https://x.com/weiinberg) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107694579764113701) |
 | <a href="https://x.com/Yuupapa_free/status/2107644949730869493"><img src="https://pbs.twimg.com/media/HT_aysJaMAEJ3NC.jpg" width="160" alt="iPhone 实拍画质人像：vs GPT Image 2.5"></a> | [iPhone 实拍画质人像：vs GPT Image 2.5](https://x.com/Yuupapa_free/status/2107644949730869493) | Nano Banana 2.1 | [@Yuupapa_free](https://x.com/Yuupapa_free) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107644949730869493) |
 | <a href="https://x.com/AhazeiAI/status/2107222518667137248"><img src="https://pbs.twimg.com/media/HT5bptxWcAAWtCO.jpg" width="160" alt="双参考人物融合：现实风 × 2D 画风"></a> | [双参考人物融合：现实风 × 2D 画风](https://x.com/AhazeiAI/status/2107222518667137248) | Nano Banana 2.1 | [@AhazeiAI](https://x.com/AhazeiAI) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107222518667137248) |
-
 ## 文字设计 / 海报
 
 5 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=text-design)
@@ -81,29 +76,25 @@
 | <a href="https://x.com/wshuyi/status/2107678239158309266"><img src="https://pbs.twimg.com/media/HT_6KsHbYAAcgc0.jpg" width="160" alt="王羲之正在写传世名作"></a> | [王羲之正在写传世名作](https://x.com/wshuyi/status/2107678239158309266) | Nano Banana 2.1 | [@wshuyi](https://x.com/wshuyi) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107678239158309266) |
 | <a href="https://x.com/sui1723/status/2107677832621314458"><img src="https://pbs.twimg.com/media/HT_4ma1aYAI3Cdi.jpg" width="160" alt="中文广告字：2.0 vs 2.1（深夜食堂等）"></a> | [中文广告字：2.0 vs 2.1（深夜食堂等）](https://x.com/sui1723/status/2107677832621314458) | Nano Banana 2.1 | [@sui1723](https://x.com/sui1723) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107677832621314458) |
 | <a href="https://x.com/EvoLinkAi/status/2107659940936483064"><img src="https://pbs.twimg.com/media/HT_piF0WgAA0V2k.jpg" width="160" alt="小悪魔リリィ：SFC 游戏海报"></a> | [小悪魔リリィ：SFC 游戏海报](https://x.com/EvoLinkAi/status/2107659940936483064) | Nano Banana 2.1 | [@EvoLinkAi](https://x.com/EvoLinkAi) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107659940936483064) |
-| <a href="https://x.com/zway_ai/status/2107675516321067210"><img src="https://pbs.twimg.com/media/HT_3WmqaoAENcDj.jpg" width="160" alt="同句 prompt：F1 赛车海报猜模型"></a> | [同句 prompt：F1 赛车海报猜模型](https://x.com/zway_ai/status/2107675516321067210) | Nano Banana 2.1 | [@zway_ai](https://x.com/zway_ai) | — |
-
+| <a href="https://x.com/EvoLinkAi/status/2107692301518540985"><img src="https://pbs.twimg.com/media/HUAG5ZTWIAAport.jpg" width="160" alt="把 “Nano Banana” 写进叶片天然缝隙"></a> | [把 “Nano Banana” 写进叶片天然缝隙](https://x.com/EvoLinkAi/status/2107692301518540985) | Nano Banana 2.1 | [@EvoLinkAi](https://x.com/EvoLinkAi) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107692301518540985) |
 ## 其他（首测 / 发布 / 趣味）
 
-7 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=other)
+5 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-nano-banana-2.1/?cat=other)
 
 | 预览 | 作品 | 模型 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | <a href="https://x.com/chetaslua/status/2107213481200292077"><img src="https://pbs.twimg.com/media/HT5TESIbgAAeU4t.jpg" width="160" alt="最爱电影从结尾到开头：拼贴画首测"></a> | [最爱电影从结尾到开头：拼贴画首测](https://x.com/chetaslua/status/2107213481200292077) | Nano Banana 2.1 | [@chetaslua](https://x.com/chetaslua) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107213481200292077) |
 | <a href="https://x.com/HarshithLucky3/status/2107215302320947424"><img src="https://pbs.twimg.com/media/HT5VJG-aoAACHaC.jpg" width="160" alt="三只半人马后空翻：Flow 首测"></a> | [三只半人马后空翻：Flow 首测](https://x.com/HarshithLucky3/status/2107215302320947424) | Nano Banana 2.1 | [@HarshithLucky3](https://x.com/HarshithLucky3) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107215302320947424) |
-| <a href="https://x.com/astropol0/status/2107221983574508021"><img src="https://pbs.twimg.com/media/HT5bM4JaQAAfI-S.jpg" width="160" alt="Google Flow 上 beluga 悄然上线"></a> | [Google Flow 上 beluga 悄然上线](https://x.com/astropol0/status/2107221983574508021) | Nano Banana 2.1 | [@astropol0](https://x.com/astropol0) | — |
-| <a href="https://x.com/alisa_fortin/status/2107544570397667596"><img src="https://pbs.twimg.com/media/HT9_7tKbEAAPXoj.jpg" width="160" alt="官方侧发布说明：gemini-nano-banana-2.1"></a> | [官方侧发布说明：gemini-nano-banana-2.1](https://x.com/alisa_fortin/status/2107544570397667596) | Nano Banana 2.1 | [@alisa_fortin](https://x.com/alisa_fortin) | — |
 | <a href="https://x.com/SahilPanhotra/status/2107505017905467481"><img src="https://pbs.twimg.com/media/HT9cNzUbYAAMF4c.jpg" width="160" alt="生日前想要 MacBook：结果给你一根香蕉"></a> | [生日前想要 MacBook：结果给你一根香蕉](https://x.com/SahilPanhotra/status/2107505017905467481) | Nano Banana 2.1 | [@SahilPanhotra](https://x.com/SahilPanhotra) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107505017905467481) |
-| <a href="https://x.com/4n5AI/status/2107525685501960528"><img src="https://pbs.twimg.com/media/HT9vcNfawAAMirv.jpg" width="160" alt="超真实「不存在的昆虫」照片"></a> | [超真实「不存在的昆虫」照片](https://x.com/4n5AI/status/2107525685501960528) | Nano Banana 2.1 | [@4n5AI](https://x.com/4n5AI) | — |
+| <a href="https://x.com/xiax0603/status/2107215658031439963"><img src="https://pbs.twimg.com/media/HT5Vc67a8AE1W0H.jpg" width="160" alt="最爱电影从结尾到开头：中文拼贴提示"></a> | [最爱电影从结尾到开头：中文拼贴提示](https://x.com/xiax0603/status/2107215658031439963) | Nano Banana 2.1 | [@xiax0603](https://x.com/xiax0603) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107215658031439963) |
 | <a href="https://x.com/KingofKnockout_/status/2107225640911229434"><img src="https://pbs.twimg.com/media/HT5eVZGbcAAUqen.jpg" width="160" alt="SCP-682 漫画风分镜"></a> | [SCP-682 漫画风分镜](https://x.com/KingofKnockout_/status/2107225640911229434) | Nano Banana 2.1 | [@KingofKnockout_](https://x.com/KingofKnockout_) | [复制提示词](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107225640911229434) |
-
 ## 数据
 
 全部条目在 [`cases.json`](cases.json)，在线画廊直接读取。字段含：`id`、`category`、`model`、中英文标题、简介、作者与原帖、发布时间（UTC+8）、点赞 / 浏览 / 收藏、公开提示词、封面 `cover`、画廊锚点 `gallery_url`。
 
 ## 贡献
 
-欢迎 PR：补充明确标注 Nano Banana 2.1 的原帖案例（最好有图 + 公开提示词）。作者可提 Issue 要求修改或移除自家作品。
+欢迎 PR：补充明确标注 Nano Banana 2.1、**且带图 + 公开提示词**的原帖案例。作者可提 Issue 要求修改或移除自家作品。
 
 ## 声明
 
