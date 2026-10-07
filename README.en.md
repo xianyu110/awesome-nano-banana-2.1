@@ -56,6 +56,10 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 | ![](https://pbs.twimg.com/media/HT5Vc67a8AE1W0H.jpg) | [Favourite movie collage end→start (Chinese prompt)](https://x.com/xiax0603/status/2107215658031439963) | [@xiax0603](https://x.com/xiax0603) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107215658031439963) |
 | ![](https://pbs.twimg.com/media/HT5eVZGbcAAUqen.jpg) | [SCP-682 manga-styled comic](https://x.com/KingofKnockout_/status/2107225640911229434) | [@KingofKnockout_](https://x.com/KingofKnockout_) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107225640911229434) |
 
+## Community
+
+This project recognizes and supports the [LINUX DO](https://linux.do) community.
+
 ## License
 
 MIT for this repo's code and original write-ups. Showcased images/prompts belong to their authors. Not affiliated with Google.
