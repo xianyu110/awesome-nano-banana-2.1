@@ -2,7 +2,7 @@
 
 [English](README.en.md) | [简体中文](README.md)
 
-Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. **Only cases with both a preview image and a public prompt** — **28 cases** across 5 categories.
+Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. **Only cases with both a preview image and a public prompt** — **35 cases** across 5 categories.
 
 **[🌐 Live gallery →](https://xianyu110.github.io/awesome-nano-banana-2.1/)**
 
@@ -10,11 +10,11 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 
 - Original posts that clearly claim **Nano Banana 2.1** / `gemini-nano-banana-2.1` / Flow **beluga**.
 - Not the same as [awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts) (Pro).
-- **Requires both cover image + non-empty public prompt**; covers from `pbs.twimg.com`. Snapshot: 2026-10-08 12:27 (UTC+8).
+- **Requires both cover image + non-empty public prompt**; covers from `pbs.twimg.com`. Snapshot: 2026-10-09 21:07 (UTC+8).
 
 ## Categories
 
-### Comparisons (5)
+### Comparisons (7)
 
 | Preview | Case | Author | Prompt |
 |---|---|---|---|
@@ -23,12 +23,14 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 | ![](https://pbs.twimg.com/media/HUAU4z7a4AAxkQP.jpg) | [Fortress builder game UI: Gemini Image vs 2.1](https://x.com/LeeLeepenkman/status/2107707838365872365) | [@LeeLeepenkman](https://x.com/LeeLeepenkman) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107707838365872365) |
 | ![](https://pbs.twimg.com/media/HUDSzMGXMAAibwm.jpg) | [Vienna café clock at 4:37: 2 Lite vs 2.1](https://x.com/EmilioSchwaiger/status/2107916406498984411) | [@EmilioSchwaiger](https://x.com/EmilioSchwaiger) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107916406498984411) |
 | ![](https://pbs.twimg.com/media/HUCrM_ibsAEgqVu.jpg) | [Eastern fairy in a celestial palace: GPT image 2.0 vs 2.1](https://x.com/hiwise_aigc/status/2107874526050890003) | [@hiwise_aigc](https://x.com/hiwise_aigc) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107874526050890003) |
+| ![](https://pbs.twimg.com/media/HUHerl3XUAAmggs.jpg) | [Raccoon on a tree: Pro / 2.0 / 2.1 same prompt](https://x.com/asheem01/status/2108210959504265596) | [@asheem01](https://x.com/asheem01) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108210959504265596) |
+| ![](https://pbs.twimg.com/media/HUHS_mCbEAApMrK.jpg) | [Elderly potter in studio vs GPT Image 2.5](https://x.com/BernieCheuinbf/status/2108198584231358468) | [@BernieCheuinbf](https://x.com/BernieCheuinbf) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108198584231358468) |
 ### Product & Commercial (1)
 
 | Preview | Case | Author | Prompt |
 |---|---|---|---|
 | ![](https://pbs.twimg.com/media/HT5kIZwbUAE70wR.jpg) | [UGC bag photo vs GPT Image 2.5](https://x.com/modisulak/status/2107232476905291892) | [@modisulak](https://x.com/modisulak) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107232476905291892) |
-### Portrait & Character (10)
+### Portrait & Character (13)
 
 | Preview | Case | Author | Prompt |
 |---|---|---|---|
@@ -42,6 +44,9 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 | ![](https://pbs.twimg.com/media/HUCeWsEakAAf3WZ.jpg) | [1960s fashion editorial in a vintage car mirror](https://x.com/mehvishs25/status/2107858748882690121) | [@mehvishs25](https://x.com/mehvishs25) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107858748882690121) |
 | ![](https://pbs.twimg.com/media/HUDOMIMWAAAGERY.jpg) | [Cinematic corporate executive portrait template](https://x.com/westkast/status/2107911336298500547) | [@westkast](https://x.com/westkast) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107911336298500547) |
 | ![](https://pbs.twimg.com/media/HUE81d-bAAAFoI0.jpg) | [Curly-haired bearded man, cinematic blue-orange portrait](https://x.com/iamsofiaijaz/status/2108033000432906246) | [@iamsofiaijaz](https://x.com/iamsofiaijaz) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108033000432906246) |
+| ![](https://pbs.twimg.com/media/HUJjk5AWgAAs7hI.jpg) | [Flow lifestyle photo series, Japanese film snapshot](https://x.com/Tomw852/status/2108357829153132776) | [@Tomw852](https://x.com/Tomw852) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108357829153132776) |
+| ![](https://pbs.twimg.com/media/HUJZGgSbUAAmvp8.jpg) | [Extreme beauty macro close-up (author replies 1/2+2/2)](https://x.com/nb28511/status/2108345567810338821) | [@nb28511](https://x.com/nb28511) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108345567810338821) |
+| ![](https://pbs.twimg.com/media/HT91x6RWcAA48iD.jpg) | [Overhead street fashion JSON + negative](https://x.com/hardik_lut83675/status/2108332864999661910) | [@hardik_lut83675](https://x.com/hardik_lut83675) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108332864999661910) |
 ### Text Design & Posters (6)
 
 | Preview | Case | Author | Prompt |
@@ -52,7 +57,7 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 | ![](https://pbs.twimg.com/media/HT_piF0WgAA0V2k.jpg) | [Lilim Lily Super Famicom game poster](https://x.com/EvoLinkAi/status/2107659940936483064) | [@EvoLinkAi](https://x.com/EvoLinkAi) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107659940936483064) |
 | ![](https://pbs.twimg.com/media/HUAG5ZTWIAAport.jpg) | [Place “Nano Banana” in the leaf’s natural gaps](https://x.com/EvoLinkAi/status/2107692301518540985) | [@EvoLinkAi](https://x.com/EvoLinkAi) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107692301518540985) |
 | ![](https://pbs.twimg.com/media/HUBu8e5bAAA0Lyq.jpg) | [Minimal × maximal: Swiss gallery poster & mechanical exploded view](https://x.com/ProofOfVibe_HQ/status/2107808924871389588) | [@ProofOfVibe_HQ](https://x.com/ProofOfVibe_HQ) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107808924871389588) |
-### Other (first looks, launch, fun) (6)
+### Other (first looks, launch, fun) (8)
 
 | Preview | Case | Author | Prompt |
 |---|---|---|---|
@@ -62,7 +67,8 @@ Curated **Nano Banana 2.1** (`gemini-nano-banana-2.1`) image showcases from X. *
 | ![](https://pbs.twimg.com/media/HT5Vc67a8AE1W0H.jpg) | [Favourite movie collage end→start (Chinese prompt)](https://x.com/xiax0603/status/2107215658031439963) | [@xiax0603](https://x.com/xiax0603) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107215658031439963) |
 | ![](https://pbs.twimg.com/media/HT5eVZGbcAAUqen.jpg) | [SCP-682 manga-styled comic](https://x.com/KingofKnockout_/status/2107225640911229434) | [@KingofKnockout_](https://x.com/KingofKnockout_) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107225640911229434) |
 | ![](https://pbs.twimg.com/media/HT-il-wXMAAbvXw.jpg) | [Gentle Bigfoot with a tiny yellow bird, storybook forest](https://x.com/heathergreen/status/2107954121550750088) | [@heathergreen](https://x.com/heathergreen) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2107954121550750088) |
-
+| ![](https://pbs.twimg.com/media/HUHzrtLWcAAOxnq.jpg) | [80s blonde witch, 35mm fantasy film scene](https://x.com/nonameoasis/status/2108234166114341071) | [@nonameoasis](https://x.com/nonameoasis) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108234166114341071) |
+| ![](https://pbs.twimg.com/media/HUEqVhHW0AABTR7.jpg) | [2x2 silhouette illusion grid via line deformation](https://x.com/Gdgtify/status/2108231697171169618) | [@Gdgtify](https://x.com/Gdgtify) | [prompt](https://xianyu110.github.io/awesome-nano-banana-2.1/#2108231697171169618) |
 ## Community
 
 This project recognizes and supports the [LINUX DO](https://linux.do) community.
